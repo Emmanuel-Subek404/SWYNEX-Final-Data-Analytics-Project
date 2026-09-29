@@ -674,7 +674,7 @@ This final case study combines all previous SWYNEX internship tasks.
 
 **Tools:** Excel + Power Query
 
-🔗 [View Task 1 Repository](PASTE-TASK-1-GITHUB-URL-HERE)
+🔗 [View Task 1 Repository](https://github.com/Emmanuel-Subek404/SWYNEX-Data-Cleaning-Preparation)
 
 ---
 
@@ -682,7 +682,7 @@ This final case study combines all previous SWYNEX internship tasks.
 
 **Tools:** MySQL + Excel
 
-🔗 [View Task 2 Repository](PASTE-TASK-2-GITHUB-URL-HERE)
+🔗 [View Task 2 Repository](https://github.com/Emmanuel-Subek404/SWYNEX-Exploratory-Data-Analysis)
 
 ---
 
@@ -690,8 +690,7 @@ This final case study combines all previous SWYNEX internship tasks.
 
 **Tools:** Power BI + DAX
 
-🔗 [View Task 3 Repository](PASTE-TASK-3-GITHUB-URL-HERE)
-
+🔗 [View Task 3 Repository](https://github.com/Emmanuel-Subek404/SWYNEX-Interactive-Dashboard)
 ---
 
 # 📚 Key Learnings
